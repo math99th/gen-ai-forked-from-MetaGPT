@@ -23,7 +23,7 @@ RPM: 10
 #OPENAI_API_VERSION: "YOUR_AZURE_API_VERSION"
 #DEPLOYMENT_NAME: "YOUR_DEPLOYMENT_NAME"
 #DEPLOYMENT_ID: "YOUR_DEPLOYMENT_ID"
-
+#STREAM: true
 #### for Search
 
 ## Supported values: serpapi/google/serper/ddg
